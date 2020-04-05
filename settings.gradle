@@ -1,0 +1,2 @@
+rootProject.name='Android Detect Internet Connection Status'
+include ':app'
